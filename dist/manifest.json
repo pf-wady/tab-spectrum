@@ -1,0 +1,13 @@
+{
+    "name": "TabSpectrum",
+    "version": "1.0",
+    "description": "Display audio spectrum.",
+    "manifest_version": 2,
+    "permissions":[
+        "tabs",
+        "tabCapture"
+    ],
+    "browser_action":{
+        "default_popup": "index.html"
+    }
+}

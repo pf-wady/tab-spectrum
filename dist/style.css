@@ -1,0 +1,7 @@
+#audioCanvas {
+    margin: 0px 10px;
+    border: 2px;
+    border-style: solid;
+    height: 100px;
+    width: 480px;
+}
